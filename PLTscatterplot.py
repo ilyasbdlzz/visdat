@@ -8,7 +8,7 @@ y = [2, 4, 1, 8, 7, 5]
 plt.scatter(x, y)
 
 # Menambahkan judul dan label sumbu
-plt.title('Contoh Scatter Plot')
+plt.title('Scatter Plot contoh')
 plt.xlabel('X Axis')
 plt.ylabel('Y Axis')
 
